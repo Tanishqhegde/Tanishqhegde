@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Tanishqhegde
-- 👀 I’m interested in Blockchain development  
-- 🌱 I’m currently learning solidity
+- 👋 Hi, I’m @Tanishqhegde  
 - 📫 How to reach me tanishqhegde202@gmail.com
 
 <!---
